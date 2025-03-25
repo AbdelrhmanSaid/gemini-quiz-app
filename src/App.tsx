@@ -58,7 +58,7 @@ function App() {
                     return {
                         question: question.question,
                         options: options,
-                        correctAnswer: question.correctAnswer,
+                        correctAnswer: question.correct_answer,
                     };
                 }
             );
