@@ -50,7 +50,7 @@ export const QuizSelection = ({
                 </Select>
             </CardHeader>
             <CardContent>
-                <Button className="w-full cursor-pointer" onClick={onStartQuiz}>
+                <Button className="w-full" onClick={onStartQuiz}>
                     Start Quiz
                 </Button>
 
